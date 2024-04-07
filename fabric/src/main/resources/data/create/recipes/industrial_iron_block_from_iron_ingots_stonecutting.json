@@ -3,7 +3,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "tag": "forge:ingots/iron"
+      "tag": "c:iron_blocks"
     }
   ],
   "results": [

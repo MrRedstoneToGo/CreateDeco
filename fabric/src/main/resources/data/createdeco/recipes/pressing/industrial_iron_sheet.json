@@ -2,7 +2,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "createdeco:industrial_iron_ingot"
+      "tag": "c:industrial_iron_ingots"
     }
   ],
   "results": [

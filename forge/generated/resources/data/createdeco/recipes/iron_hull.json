@@ -6,7 +6,7 @@
       "tag": "forge:plates//iron_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/iron_blocks"
+      "tag": "forge:storage_blocks/iron_blocks"
     }
   },
   "pattern": [

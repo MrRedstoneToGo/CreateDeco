@@ -6,7 +6,7 @@
       "tag": "forge:ingots/industrial_iron_ingots"
     },
     "X": {
-      "tag": "createdeco:internal/colorless_glass"
+      "tag": "forge:glass/colorless"
     }
   },
   "pattern": [

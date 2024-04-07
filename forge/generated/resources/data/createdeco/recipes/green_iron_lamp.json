@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "createdeco:internal/nuggets/iron_nuggets"
+      "tag": "forge:nuggets/iron_nuggets"
     },
     "p": {
       "tag": "forge:plates//iron_plates"

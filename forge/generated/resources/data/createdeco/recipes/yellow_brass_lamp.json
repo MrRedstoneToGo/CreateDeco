@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "createdeco:internal/nuggets/brass_nuggets"
+      "tag": "forge:nuggets/brass_nuggets"
     },
     "p": {
       "tag": "forge:plates//brass_plates"

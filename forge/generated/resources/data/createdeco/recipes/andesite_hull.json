@@ -6,7 +6,7 @@
       "tag": "forge:plates//andesite_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/andesite_blocks"
+      "tag": "forge:storage_blocks/andesite_blocks"
     }
   },
   "pattern": [

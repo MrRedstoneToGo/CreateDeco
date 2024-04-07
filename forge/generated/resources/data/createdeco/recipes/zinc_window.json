@@ -3,10 +3,10 @@
   "category": "building",
   "key": {
     "#": {
-      "tag": "createdeco:internal/ingots/zinc_ingots"
+      "tag": "forge:ingots/zinc_ingots"
     },
     "X": {
-      "tag": "createdeco:internal/colorless_glass"
+      "tag": "forge:glass/colorless"
     }
   },
   "pattern": [

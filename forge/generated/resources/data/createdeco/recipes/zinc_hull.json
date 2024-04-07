@@ -6,7 +6,7 @@
       "tag": "forge:plates//zinc_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/zinc_blocks"
+      "tag": "forge:storage_blocks/zinc_blocks"
     }
   },
   "pattern": [

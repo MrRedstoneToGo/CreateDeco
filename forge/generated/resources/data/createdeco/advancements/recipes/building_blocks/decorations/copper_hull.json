@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "createdeco:internal/blocks/copper_blocks"
+            "tag": "forge:storage_blocks/copper_blocks"
           }
         ]
       },

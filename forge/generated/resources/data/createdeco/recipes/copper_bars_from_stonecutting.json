@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 4,
   "ingredient": {
-    "item": "minecraft:copper_ingot"
+    "tag": "forge:ingots/copper"
   },
   "result": "createdeco:copper_bars"
 }

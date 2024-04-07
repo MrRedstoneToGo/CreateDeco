@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 8,
   "ingredient": {
-    "item": "create:zinc_ingot"
+    "tag": "forge:ingots/zinc"
   },
   "result": "createdeco:zinc_catwalk_railing"
 }

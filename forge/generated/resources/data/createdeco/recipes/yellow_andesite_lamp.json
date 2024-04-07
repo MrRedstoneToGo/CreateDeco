@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "n": {
-      "item": "create:andesite_alloy"
+      "tag": "forge:ingots/andesite_alloy"
     },
     "p": {
       "tag": "forge:plates/andesite_alloy"

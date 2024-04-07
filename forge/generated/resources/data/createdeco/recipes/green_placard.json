@@ -6,7 +6,7 @@
       "item": "minecraft:item_frame"
     },
     {
-      "item": "create:brass_sheet"
+      "tag": "forge:sheets/brass"
     },
     {
       "item": "minecraft:green_dye"

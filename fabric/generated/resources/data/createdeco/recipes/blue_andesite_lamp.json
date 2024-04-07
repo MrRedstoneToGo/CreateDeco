@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "n": {
-      "item": "create:andesite_alloy"
+      "tag": c:andesite_alloy_ingots"
     },
     "p": {
       "tag": "c:andesite_alloy_plates"

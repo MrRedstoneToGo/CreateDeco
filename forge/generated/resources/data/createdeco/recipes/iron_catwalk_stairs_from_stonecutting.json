@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 2,
   "ingredient": {
-    "item": "minecraft:iron_ingot"
+    "tag": "forge:ingots/iron"
   },
   "result": "createdeco:iron_catwalk_stairs"
 }

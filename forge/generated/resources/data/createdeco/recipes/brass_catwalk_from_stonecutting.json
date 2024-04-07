@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 4,
   "ingredient": {
-    "item": "create:brass_ingot"
+    "tag": "forge:ingots/brass"
   },
   "result": "createdeco:brass_catwalk"
 }

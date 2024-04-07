@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "m": {
-      "item": "create:zinc_ingot"
+      "tag": "forge:ingots/zinc"
     }
   },
   "pattern": [

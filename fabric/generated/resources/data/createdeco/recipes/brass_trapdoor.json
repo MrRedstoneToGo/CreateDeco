@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "m": {
-      "item": "create:brass_ingot"
+      "tag": c:brass_ingots"
     }
   },
   "pattern": [

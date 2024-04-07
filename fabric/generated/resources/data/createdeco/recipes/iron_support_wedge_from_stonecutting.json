@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 4,
   "ingredient": {
-    "item": "minecraft:iron_ingot"
+    "tag": c:iron_ingots"
   },
   "result": "createdeco:iron_support_wedge"
 }

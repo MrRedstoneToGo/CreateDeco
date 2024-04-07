@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 8,
   "ingredient": {
-    "item": "minecraft:copper_ingot"
+    "tag": "forge:ingots/copper"
   },
   "result": "createdeco:copper_catwalk_railing"
 }

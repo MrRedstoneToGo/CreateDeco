@@ -2,7 +2,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "create:zinc_nugget"
+      "tag": "c:zinc_nuggets"
     }
   ],
   "results": [

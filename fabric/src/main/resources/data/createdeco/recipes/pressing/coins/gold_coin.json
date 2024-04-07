@@ -2,7 +2,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "minecraft:gold_nugget"
+      "tag": "c:gold_nuggets"
     }
   ],
   "results": [

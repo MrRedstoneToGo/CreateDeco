@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "tag": "forge:ingots/andesite"
+      "tag": "forge:ingots/andesite_alloy"
     },
     "X": {
       "tag": "forge:glass/colorless"

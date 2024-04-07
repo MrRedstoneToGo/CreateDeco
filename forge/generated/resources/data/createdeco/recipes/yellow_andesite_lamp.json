@@ -6,7 +6,7 @@
       "item": "create:andesite_alloy"
     },
     "p": {
-      "tag": "forge:plates/andesite"
+      "tag": "forge:plates/andesite_alloy"
     },
     "t": {
       "item": "minecraft:torch"

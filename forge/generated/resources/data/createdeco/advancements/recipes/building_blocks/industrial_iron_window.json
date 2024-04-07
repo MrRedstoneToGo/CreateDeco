@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "forge:ingots/industrial_iron_ingots"
+            "tag": "forge:ingots/industrial_iron"
           }
         ]
       },

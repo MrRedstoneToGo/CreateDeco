@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "forge:plates//brass_plates"
+      "tag": "forge:plates/brass"
     },
     "p": {
-      "tag": "forge:storage_blocks/brass_blocks"
+      "tag": "forge:storage_blocks/brass"
     }
   },
   "pattern": [

@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "forge:plates//zinc_plates"
+            "tag": "forge:plates/zinc"
           }
         ]
       },

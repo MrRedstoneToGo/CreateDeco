@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "forge:plates//copper_plates"
+      "tag": "forge:plates/copper"
     },
     "p": {
-      "tag": "forge:storage_blocks/copper_blocks"
+      "tag": "forge:storage_blocks/copper"
     }
   },
   "pattern": [

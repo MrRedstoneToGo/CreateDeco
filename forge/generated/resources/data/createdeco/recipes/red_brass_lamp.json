@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "forge:nuggets/brass_nuggets"
+      "tag": "forge:nuggets/brass"
     },
     "p": {
-      "tag": "forge:plates//brass_plates"
+      "tag": "forge:plates/brass"
     },
     "t": {
       "item": "minecraft:redstone_torch"

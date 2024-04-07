@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "tag": "forge:ingots/iron_ingots"
+      "tag": "forge:ingots/iron"
     },
     "X": {
       "tag": "forge:glass/colorless"

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "tag": "forge:plates//andesite_plates"
+      "tag": "forge:plates/andesite"
     },
     "s": {
       "item": "minecraft:string"

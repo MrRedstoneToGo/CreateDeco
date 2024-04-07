@@ -6,7 +6,7 @@
       "item": "createdeco:zinc_bars"
     },
     "p": {
-      "tag": "forge:plates//zinc_plates"
+      "tag": "forge:plates/zinc"
     }
   },
   "pattern": [

@@ -6,7 +6,7 @@
       "item": "createdeco:copper_bars"
     },
     "p": {
-      "tag": "forge:plates//copper_plates"
+      "tag": "forge:plates/copper"
     }
   },
   "pattern": [

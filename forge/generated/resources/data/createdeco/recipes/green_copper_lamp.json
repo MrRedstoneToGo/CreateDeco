@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "forge:nuggets/copper_nuggets"
+      "tag": "forge:nuggets/copper"
     },
     "p": {
-      "tag": "forge:plates//copper_plates"
+      "tag": "forge:plates/copper"
     },
     "t": {
       "item": "minecraft:glow_berries"

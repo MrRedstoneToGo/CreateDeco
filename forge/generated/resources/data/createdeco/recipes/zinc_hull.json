@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "forge:plates//zinc_plates"
+      "tag": "forge:plates/zinc"
     },
     "p": {
-      "tag": "forge:storage_blocks/zinc_blocks"
+      "tag": "forge:storage_blocks/zinc"
     }
   },
   "pattern": [

@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "forge:nuggets/zinc_nuggets"
+      "tag": "forge:nuggets/zinc"
     },
     "p": {
-      "tag": "forge:plates//zinc_plates"
+      "tag": "forge:plates/zinc"
     },
     "t": {
       "item": "minecraft:soul_torch"

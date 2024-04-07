@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "tag": "createdeco:internal/ingots/zinc_ingots"
+      "tag": "c:zinc_ingots"
     },
     "X": {
       "tag": "createdeco:internal/colorless_glass"

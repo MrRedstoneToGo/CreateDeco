@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "createdeco:internal/plates/copper_plates"
+      "tag": "c:copper_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/copper_blocks"
+      "tag": "c:copper_blocks"
     }
   },
   "pattern": [

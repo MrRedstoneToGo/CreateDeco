@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "createdeco:internal/ingots/andesite_ingots"
+            "tag": "c:andesite_ingots"
           }
         ]
       },

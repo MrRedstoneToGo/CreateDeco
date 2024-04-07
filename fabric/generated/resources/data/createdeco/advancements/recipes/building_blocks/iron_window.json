@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "createdeco:internal/ingots/iron_ingots"
+            "tag": "c:iron_ingots"
           }
         ]
       },

@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "createdeco:internal/nuggets/iron_nuggets"
+      "tag": "c:iron_nuggets"
     },
     "p": {
-      "tag": "createdeco:internal/plates/iron_plates"
+      "tag": "c:iron_plates"
     },
     "t": {
       "item": "minecraft:soul_torch"

@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "createdeco:internal/plates/andesite_plates"
+      "tag": "c:andesite_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/andesite_blocks"
+      "tag": "c:andesite_blocks"
     }
   },
   "pattern": [

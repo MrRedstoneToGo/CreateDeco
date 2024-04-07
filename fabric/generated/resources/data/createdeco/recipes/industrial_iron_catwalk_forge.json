@@ -6,7 +6,7 @@
       "item": "createdeco:industrial_iron_bars"
     },
     "p": {
-      "tag": "createdeco:internal/plates/industrial_iron_plates"
+      "tag": "c:industrial_iron_plates"
     }
   },
   "pattern": [

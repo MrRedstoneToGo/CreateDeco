@@ -6,7 +6,7 @@
       "item": "create:andesite_alloy"
     },
     "p": {
-      "tag": "createdeco:internal/plates/andesite_plates"
+      "tag": "c:andesite_plates"
     },
     "t": {
       "item": "minecraft:redstone_torch"

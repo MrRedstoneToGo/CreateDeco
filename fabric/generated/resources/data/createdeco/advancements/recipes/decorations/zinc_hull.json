@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "createdeco:internal/blocks/zinc_blocks"
+            "tag": "c:zinc_blocks"
           }
         ]
       },

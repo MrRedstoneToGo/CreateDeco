@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "createdeco:internal/plates/brass_plates"
+      "tag": "c:brass_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/brass_blocks"
+      "tag": "c:brass_blocks"
     }
   },
   "pattern": [

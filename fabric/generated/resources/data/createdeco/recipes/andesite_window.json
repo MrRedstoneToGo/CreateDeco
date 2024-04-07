@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "tag": "createdeco:internal/ingots/andesite_ingots"
+      "tag": "c:andesite_ingots"
     },
     "X": {
       "tag": "createdeco:internal/colorless_glass"

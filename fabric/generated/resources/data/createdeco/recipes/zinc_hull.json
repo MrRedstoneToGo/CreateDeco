@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "createdeco:internal/plates/zinc_plates"
+      "tag": "c:zinc_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/zinc_blocks"
+      "tag": "c:zinc_blocks"
     }
   },
   "pattern": [

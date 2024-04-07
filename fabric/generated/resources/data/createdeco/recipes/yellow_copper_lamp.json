@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "createdeco:internal/nuggets/copper_nuggets"
+      "tag": "c:copper_nuggets"
     },
     "p": {
-      "tag": "createdeco:internal/plates/copper_plates"
+      "tag": "c:copper_plates"
     },
     "t": {
       "item": "minecraft:torch"

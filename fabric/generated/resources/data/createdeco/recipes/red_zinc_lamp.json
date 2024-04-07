@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "n": {
-      "tag": "createdeco:internal/nuggets/zinc_nuggets"
+      "tag": "c:zinc_nuggets"
     },
     "p": {
-      "tag": "createdeco:internal/plates/zinc_plates"
+      "tag": "c:zinc_plates"
     },
     "t": {
       "item": "minecraft:redstone_torch"

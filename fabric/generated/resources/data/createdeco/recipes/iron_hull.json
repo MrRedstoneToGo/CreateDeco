@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "createdeco:internal/plates/iron_plates"
+      "tag": "c:iron_plates"
     },
     "p": {
-      "tag": "createdeco:internal/blocks/iron_blocks"
+      "tag": "c:iron_blocks"
     }
   },
   "pattern": [

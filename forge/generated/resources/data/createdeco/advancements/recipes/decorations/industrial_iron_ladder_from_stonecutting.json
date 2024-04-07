@@ -6,7 +6,7 @@
         "items": [
           {
             "items": [
-              "createdeco:industrial_iron_ingot"
+              "forge:ingots/industrial_iron"
             ]
           }
         ]

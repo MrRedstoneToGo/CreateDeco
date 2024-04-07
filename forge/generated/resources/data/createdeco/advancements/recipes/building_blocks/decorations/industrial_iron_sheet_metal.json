@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "createdeco:internal/plates/industrial_iron_plates"
+            "tag": "forge:plates//industrial_iron_plates"
           }
         ]
       },

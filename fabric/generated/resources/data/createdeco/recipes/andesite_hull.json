@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "m": {
-      "tag": "c:andesite_plates"
+      "tag": "c:andesite_alloy_plates"
     },
     "p": {
-      "tag": "c:andesite_blocks"
+      "tag": "c:andesite_alloy_blocks"
     }
   },
   "pattern": [

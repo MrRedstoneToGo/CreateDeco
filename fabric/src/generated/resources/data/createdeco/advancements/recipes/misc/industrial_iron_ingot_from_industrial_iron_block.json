@@ -5,9 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "create:industrial_iron_block"
-            ]
+            "tag": "c:industrial_iron_blocks"
           }
         ]
       },

@@ -5,9 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "create:brass_sheet"
-            ]
+            "tag": "c:brass_plates"
           }
         ]
       },

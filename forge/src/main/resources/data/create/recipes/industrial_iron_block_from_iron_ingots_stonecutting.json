@@ -3,7 +3,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "tag": "forge:blocks/iron"
+      "tag": "forge:storage_blocks/iron"
     }
   ],
   "results": [

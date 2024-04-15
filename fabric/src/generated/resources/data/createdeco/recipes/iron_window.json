@@ -6,7 +6,7 @@
       "tag": "c:iron_ingots"
     },
     "X": {
-      "tag": "createdeco:internal/colorless_glass"
+      "tag": "c:colorless_glass"
     }
   },
   "pattern": [

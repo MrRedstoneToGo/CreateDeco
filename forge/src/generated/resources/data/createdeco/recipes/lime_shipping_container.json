@@ -9,7 +9,7 @@
       "item": "minecraft:lime_dye"
     },
     "S": {
-      "item": "create:iron_sheet"
+      "tag": "forge:plates/iron"
     }
   },
   "pattern": [

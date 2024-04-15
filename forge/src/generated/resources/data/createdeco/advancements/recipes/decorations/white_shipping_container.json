@@ -5,9 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "create:iron_sheet"
-            ]
+            "tag": "forge:plates/iron"
           }
         ]
       },

@@ -9,7 +9,7 @@
       "item": "minecraft:blue_dye"
     },
     "S": {
-      "item": "create:iron_sheet"
+      "tag": "c:iron_plates"
     }
   },
   "pattern": [

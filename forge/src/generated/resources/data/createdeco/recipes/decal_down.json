@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 1,
   "ingredient": {
-    "item": "create:iron_sheet"
+    "tag": "forge:plates/iron"
   },
   "result": "createdeco:decal_down"
 }

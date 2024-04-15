@@ -9,7 +9,7 @@
       "item": "minecraft:cyan_dye"
     },
     "S": {
-      "item": "create:iron_sheet"
+      "tag": "forge:plates/iron"
     }
   },
   "pattern": [

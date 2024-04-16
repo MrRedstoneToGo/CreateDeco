@@ -1,11 +1,13 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_industrial_iron_block": {
+    "has_netherite_nugget": {
       "conditions": {
         "items": [
           {
-            "tag": "forge:storage_blocks/industrial_iron"
+            "items": [
+              "createdeco:netherite_nugget"
+            ]
           }
         ]
       },
@@ -13,20 +15,20 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:industrial_iron_ingot_from_industrial_iron_block"
+        "recipe": "createdeco:netherite_ingot"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
   },
   "requirements": [
     [
-      "has_industrial_iron_block",
+      "has_netherite_nugget",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "createdeco:industrial_iron_ingot_from_industrial_iron_block"
+      "createdeco:netherite_ingot"
     ]
   },
   "sends_telemetry_event": false

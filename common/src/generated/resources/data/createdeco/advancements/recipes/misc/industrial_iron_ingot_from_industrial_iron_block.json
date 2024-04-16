@@ -1,11 +1,13 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_industrial_iron_nugget": {
+    "has_industrial_iron_block": {
       "conditions": {
         "items": [
           {
-            "tag": "forge:nuggets/industrial_iron"
+            "items": [
+              "create:industrial_iron_block"
+            ]
           }
         ]
       },
@@ -13,20 +15,20 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:industrial_iron_ingot"
+        "recipe": "createdeco:industrial_iron_ingot_from_industrial_iron_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
   },
   "requirements": [
     [
-      "has_industrial_iron_nugget",
+      "has_industrial_iron_block",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "createdeco:industrial_iron_ingot"
+      "createdeco:industrial_iron_ingot_from_industrial_iron_block"
     ]
   },
   "sends_telemetry_event": false
